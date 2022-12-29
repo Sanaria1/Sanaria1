@@ -5,6 +5,6 @@ Software Engineering Student with a passion for backend developing.👩‍💻
 
 Languages and Tools 🤖:
 
-Python 🐍, C++, SQL, CSS, HTML, Panda.
+Python 🐍, C++, SQL, CSS, HTML, Panda,R, Numpy and tableau
 
 
